@@ -1,3 +1,10 @@
+Bubble_sort:
+  Repeatedly swap two adjacent elements if they are in wrong order.
+  if 'n' elements in an array maximum number of iterations are 'n-1'.
+  
+  
+  //program:1
+
 #include <iostream>
 using namespace std;
 int main()
